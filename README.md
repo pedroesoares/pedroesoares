@@ -1,5 +1,5 @@
 - Hi, I’m Pedro Soares
-- Living in Boston
+- Living in Boston and able to work in USA
 - Currently learning DataScience, Computational Biology, Machine Learning
 - I’m looking to collaborate on projects related to DataScience and Bioinformatics
 - How to reach me, p.enrique.soares@gmail.com or +1 (857) 222-9470
